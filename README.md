@@ -2,7 +2,7 @@
 
 ## Requirements
 
-The following instructions assume you are using some Unix based Operating System, e.g. Ubuntu, OSX, etc.
+The following instructions assume you are using some [Unix](https://en.wikipedia.org/wiki/Unix) based Operating System, e.g. Ubuntu, OSX, etc.
 
 ## Summary
 
