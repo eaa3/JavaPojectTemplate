@@ -12,5 +12,22 @@ In order to build the project you simply need to run the following command from 
 soure build_script.bash
 ```
 
-This will generate a build folder, in case it is not already there, and build the current project .java files, putting the generated .class files into the build folder.
+This will generate a build folder, in case it is not already there, and build all project's .java files, putting the generated .class files into the build folder.
+
+## Running the project
+
+To run the project you need to go to the build folder:
+```
+cd build
+```
+
+Then you call the java command specifying the <main_class_package>.<main_class_name>:
+
+```
+java test_package.Test
+```
+
+
+
+
 
