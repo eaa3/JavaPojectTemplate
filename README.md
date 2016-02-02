@@ -21,7 +21,7 @@ To run the project you need to go to the build folder:
 cd build
 ```
 
-Then you call the java command specifying the <main_class_package>.<main_class_name>:
+Then you call the java command specifying the "main_class_package"."main_class_name":
 
 ```
 java test_package.Test
