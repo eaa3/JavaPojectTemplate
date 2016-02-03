@@ -1,5 +1,5 @@
 
-# collects .java source files and 
+# collects .java source files and saves the list of paths to them in source.txt
 find . -name "*.java" > source.txt
 
 # if the build directory doesn't exist, then we create it

@@ -6,7 +6,7 @@ The following instructions assume you are using some [Unix](https://en.wikipedia
 
 ## Summary
 
-This is a simple java project template following a simple project organisation style. The project is composed of a few packages, and each package can have a number of java classes. In this simple project we assume to have a single main class, which can be found in test_package. This project also contains a sample build_script file that builds the whole source code containted in src for all packages, putting the generated .class files inside a build folder in the project root directory.
+This is a simple java project template following a simple project organisation style. The project is composed of a few packages, and each package can have a number of java classes. This project also contains a sample build_script file that builds the whole source code containted in src for all packages, putting the generated .class files inside a build folder in the project root directory.
 
 ## Building
 
@@ -25,12 +25,16 @@ To run the project you need to go to the build folder:
 cd build
 ```
 
-Then you call the java command specifying the "main_class_package"."main_class_name":
+Then you call the java command specifying the "main_class_package"."main_class_name", for example:
 
 ```
 java test_package.Test
 ```
+or
 
+```
+java test_package.Test2
+```
 
 
 
